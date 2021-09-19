@@ -1,7 +1,6 @@
 ---
 title: "My first note"
 ---
-
 # Welcome to my first note
 ## this is H2
 ### and this is H3
@@ -9,7 +8,6 @@ title: "My first note"
 😄 this is an emoji and [^1]
 
 [^1]: a footnote
-
 
 
 | asdasd | asdasd |

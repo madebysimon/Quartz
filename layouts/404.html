@@ -8,7 +8,10 @@
     <div class="centered">
         <h1>404.</h1>
         <h3>Hey! This page doesn't exist (or may be private).</h3>
-        <a href="/">→ Let's get you home.</a>
+        <a href="/"></a>
+        <script>
+            document.write('<a href="' + document.referrer + '">→ Let's get you home.</a>');
+        </script>
     </div>
 </div>
 </body>
