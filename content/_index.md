@@ -1,5 +1,5 @@
 # 🌱 Hello!
-## v2.0
+## v2.0xyz
 
 Simple second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening).
 
