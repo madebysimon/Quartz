@@ -11,12 +11,13 @@
 <!-- Contact Info -->
 <div id="contact_buttons">
     <footer>
-        <p>This site is organized in the open on GitHub. <a href="https://github.com/SimonKelch/Quartz/">suggest changes</a>, Made by {{ $.Site.Data.config.name }} © {{ dateFormat "2006" now }}</p>
+        <p>This site is organized in the open on GitHub. <a href="https://github.com/SimonKelch/Quartz/">→ suggest changes</a></p>
         {{ if not .IsHome }}
         <a href="/">Home</a>
         {{end}}
         {{- range $.Site.Data.config.links -}}
         <a href="{{.link}}">{{.link_name}}</a>
         {{- end -}}
+        <p>Made by {{ $.Site.Data.config.name }} © {{ dateFormat "2006" now }}</p>
     </footer>
 </div>
