@@ -1,6 +1,6 @@
 baseURL = "http://opus.maiahealth.de"
 languageCode = "en-us"
-googleAnalytics = " "
+googleAnalytics = ""
 pygmentsUseClasses = true
 relativeURLs = true
 disablePathToLower = true

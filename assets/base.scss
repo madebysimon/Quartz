@@ -325,7 +325,7 @@ header {
         border-bottom: none;
 
         &:hover {
-          background: rgba(180, 180, 180, 0.15);
+          background: rgba(180, 180, 180, 0.10);
         }
 
         &:first-of-type {
@@ -344,7 +344,7 @@ header {
         }
 
         & .search-highlight {
-          background-color: #afbfc966;
+          background-color: #c9c9af66;
           padding: 0.05em 0.2em;
           border-radius: 3px;
         }
