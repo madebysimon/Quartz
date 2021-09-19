@@ -9,6 +9,7 @@ While most views are of my own, some of this is not my own thought and I am mere
 
 [→ start exploring](moc/Test.md)
 
+[roadmap](notes/roadmap.md)
 Spread knowledge, cite this page.
 
 ---
