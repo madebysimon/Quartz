@@ -1,12 +1,11 @@
-name: Jacky Zhao
+name: Simon Kelch
 enableToc: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  Open access to my personal notes on clinical psychology and psychotherapy.
 page_title:
-  Quartz Example Page
+  OPUS | simonkelch.de
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://twitter.com/simonkelch
+  - link_name: LinkedIn
+    link: https://www.linkedin.com/in/simonkelch/
