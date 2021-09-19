@@ -7,7 +7,7 @@ I grew tired of my lecture notes collecting dust on my hard drive so I started r
 
 While I am "the curator", some of this is not my own thought. Please help me find and credit the sources.
 
--> [Start here](moc/Test.md)
+→ [Start here](moc/Test.md)
 
 ---
 
