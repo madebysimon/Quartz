@@ -1,7 +1,8 @@
 ---
-title: "My first note"
+title: "Test"
 ---
-# Welcome to my first note
+# Test
+Welcome to my first note
 ## this is H2
 ### and this is H3
 
