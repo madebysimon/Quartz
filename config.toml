@@ -1,4 +1,4 @@
-baseURL = "https://simonkelch.github.io/"
+baseURL = "http://opus.maiahealth.de"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true

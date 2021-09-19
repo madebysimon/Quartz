@@ -1,4 +1,4 @@
-# 🌱 Quartz
+# 🌱 Hello!
 ## v2.0
 
 Simple second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening).
