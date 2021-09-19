@@ -1,6 +1,8 @@
-# Quartz
-Simple second brain and digital garden.
+# Welcome
 
-> “He who works with the door open gets all kinds of interruptions, but he also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This is what I call OPUS. 
+I grew tired of my lecture notes sitting dead on my hard drive so I started recycling and interconnecting them.
+Maybe we can create something useful together and in the open.
 
-🔗 Get Started: https://quartz.jzhao.xyz/
+While I am "the curator", some of this is not my own thought. Please help me find and credit the sources.
+→ get started [here](http://opus.maiahealth.de)
