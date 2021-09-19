@@ -7,7 +7,9 @@
 }
 
 h1, h2, h3, h4, ol, ul, thead {
-  font-family: SF Pro Display;
+  font-family: font-family: "San Francisco";
+  font-weight: 400;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
   color: var(--dark)
 }
 
